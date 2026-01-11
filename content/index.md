@@ -11,7 +11,7 @@ seo:
 
 # Ласкаво просимо до вашого нового сайту на Nuxt Content!
 
-Це головна сторінка, створена за допомогою [Nuxt Content](https://content.nuxt.com/).вфцфвц
+Це головна сторінка, створена за допомогою [Nuxt Content](https://content.nuxt.com/).вфцфвцвцффв
 
 Ви можете редагувати цей файл у директорії `content/index.md` або використовувати [Nuxt Studio](https://nuxt.studio/) для візуального редагування.
 
